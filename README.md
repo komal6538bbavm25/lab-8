@@ -1,1 +1,1 @@
-# lab-8
+This document focuses on summary fidelity and report scaffolding in aviation. It explains how to create accurate AI summaries, preserve figures and source meaning, identify omissions and inventions, use [VERIFY] placeholders, separate facts from recommendations, and structure management reports. It also highlights peer review and human review. 
